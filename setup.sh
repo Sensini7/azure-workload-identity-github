@@ -1,15 +1,15 @@
 #!/bin/bash
 
 # Name of the Azure AD app
-appDisplayName="chgeuer-repo-demo2"
+appDisplayName="azurefederated-sp-demo2"
 
 # repository on github
-githubUser="chgeuer"
+githubUser="Sensini7"
 githubRepo="azure-workload-identity-github"
 
 # Azure storage account and blob container name
-account_name="isvreleases"
-container_name="backendrelease"
+account_name="statefilestorageaccount1"
+container_name="azure-tfstate"
 
 ## Setup
 ### Azure AD
