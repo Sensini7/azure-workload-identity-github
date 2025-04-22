@@ -21,8 +21,8 @@ jobs:
     name: Build the stuff
     runs-on: ubuntu-latest
     env:
-      account_name: 'isvreleases'
-      container_name: 'backendrelease'
+      account_name: 'statefilestorageaccount1'
+      container_name: 'azure-tfstate'
       filename: 'src.zip'
     steps:
       - uses: actions/checkout@v3
