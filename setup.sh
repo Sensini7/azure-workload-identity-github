@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Name of the Azure AD app
-appDisplayName="azurefederated-sp-demo2"
+appDisplayName="Federated-SP "
 
 # repository on github
 githubUser="Sensini7"
